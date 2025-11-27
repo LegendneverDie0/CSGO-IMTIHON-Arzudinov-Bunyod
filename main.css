@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.header_link{
+    font-family: "Quantico";
+font-weight: 400;
+font-size: 22px;
+line-height: 100%;
+letter-spacing: 0%;
+color: white;
+
+}
+.header_nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 21px;
+}
+.header_links{
+    display: flex;
+    gap: 45px;
+    margin-left: 25px;
+}
+.sel{
+    width: 165px;
+height: 30px;
+top: 20px;
+left: 1070px;
+opacity: 1;
+border-radius: 5px;
+margin-right: 36px;
+
+}
+.search{
+    width: 241px;
+height: 30px;
+top: 20px;
+left: 790px;
+opacity: 1;
+border-radius: 3px;
+margin-left: 450px;
+color: white;
+background-color: #404864;
+
+}
+.header{
+    background-color: #272C3D;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+.header_link:hover{
+    color: #FF9C28;
+}
+.img{
+width: 1521px;
+height: 651px;
+}
+.h1{
+    font-family: "Quantico";
+font-weight: 400;
+font-size: 32px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+padding-bottom: 45px;
+color: white;
+
+
+}
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.opa{
+        font-family: "Quantico";
+font-weight: 400;
+font-size: 70px;
+color: gray;
+line-height: 100%;
+background-color: black;
+border: 1px solid black;
+letter-spacing: 0%;
+}
+.ser{
+    background-color: black;
+}
+body{
+background-color: black;
+}
+.opa:hover{
+    color: white;
+}
+.p{
+    color: white;
+    font-family: "Quantico";
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+margin-left: 17px ;
+margin-right: 204px;
+
+}
+.orak{
+    display: flex;
+}
+.sep{
+    width: 1189px;
+    height: 450px;
+    background-color: #1B1E27;
+    margin-left: 180px;
+}
+.iam{
+    margin-left: 245px;
+}
+.tpk{
+    color: white;
+    font-family: "Quantico";
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+margin-bottom: 30px;
+padding-top: 61px;
+margin-left: 245px;
+}
+.header_linki{
+    font-family: "Quantico";
+font-weight: 400;
+font-size: 22px;
+line-height: 100%;
+letter-spacing: 0%;
+color: white;
+}
+.header_linksi{
+    display: flex;
+    gap: 45px;
+    margin-left: 25px;
+}
+.header_linki:hover{
+    color: #FF9C28;
+}
+.header_navi{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 21px;
+    margin-left: 47px;
+    margin-right: 43px;
+
+}
